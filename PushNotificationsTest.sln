@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotificationsTest.Android", "PushNotificationsTest.Android\PushNotificationsTest.Android.csproj", "{4A138173-2BBF-4DC8-8E51-F9077506DFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotificationsTest", "PushNotificationsTest\PushNotificationsTest.csproj", "{E8E3C30C-7E9C-4D38-A336-4E17A72A69A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A138173-2BBF-4DC8-8E51-F9077506DFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A138173-2BBF-4DC8-8E51-F9077506DFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A138173-2BBF-4DC8-8E51-F9077506DFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A138173-2BBF-4DC8-8E51-F9077506DFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E3C30C-7E9C-4D38-A336-4E17A72A69A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E3C30C-7E9C-4D38-A336-4E17A72A69A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E3C30C-7E9C-4D38-A336-4E17A72A69A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E3C30C-7E9C-4D38-A336-4E17A72A69A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
